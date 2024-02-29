@@ -19,22 +19,24 @@ An RDBMS is a software system that enables users to interact with a relational d
 
 <b>4. SQL Commands:</b> SQL provides a set of commands for interacting with the database. Some common SQL commands include:
 
-SELECT: Retrieves data from one or more tables.
-INSERT: Inserts new rows of data into a table.
-UPDATE: Modifies existing data in a table.
-DELETE: Deletes rows of data from a table.
-CREATE: Creates database objects such as tables, indexes, views, etc.
-ALTER: Modifies the structure of database objects.
-DROP: Deletes database objects.
-GRANT/REVOKE: Grants or revokes permissions on database objects.
-Constraints: Constraints enforce rules and integrity within the database to maintain data accuracy and consistency. Common constraints include:
+SELECT: Retrieves data from one or more tables.</br>
+INSERT: Inserts new rows of data into a table.</br>
+UPDATE: Modifies existing data in a table.</br>
+DELETE: Deletes rows of data from a table.</br>
+CREATE: Creates database objects such as tables, indexes, views, etc.</br>
+ALTER: Modifies the structure of database objects.</br>
+DROP: Deletes database objects.</br>
+GRANT/REVOKE: Grants or revokes permissions on database objects.</br>
 
-Primary Key: Uniquely identifies each record in a table.
-Foreign Key: Establishes a relationship between two tables.
-Unique: Ensures that each value in a column is unique.
-Check: Validates data based on a specified condition.
-Default: Provides a default value for a column if no value is specified.
-Indexes: Indexes improve the performance of database queries by allowing faster data retrieval. An index is a data structure that stores the values of specific columns in a sorted order, making it quicker to search for and retrieve data.
+<b>5. Constraints:</b> Constraints enforce rules and integrity within the database to maintain data accuracy and consistency. Common constraints include:
+
+Primary Key: Uniquely identifies each record in a table.</br>
+Foreign Key: Establishes a relationship between two tables.</br>
+Unique: Ensures that each value in a column is unique.</br>
+Check: Validates data based on a specified condition.</br>
+Default: Provides a default value for a column if no value is specified.</br>
+
+<b>6. Indexes:</b> Indexes improve the performance of database queries by allowing faster data retrieval. An index is a data structure that stores the values of specific columns in a sorted order, making it quicker to search for and retrieve data.
 
 Views: A view is a virtual table generated from one or more tables or other views. It allows users to query the data in a structured way without directly accessing the underlying tables. Views can also simplify complex queries and provide an additional layer of security by limiting access to certain columns or rows.
 

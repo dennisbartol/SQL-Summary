@@ -46,6 +46,12 @@ Default: Provides a default value for a column if no value is specified.</br>
 
 # SQL Database Management Tasks:
 
+<b>1. Database Design:</b> Designing the database schema, including tables, columns, relationships, constraints, etc., based on the requirements of the application.
+
+<b>2. Data Manipulation:</b> Performing operations such as inserting, updating, deleting, and querying data to manage the contents of the database.
+
+<b>3. Data Definition:</b> Defining and modifying the structure of database objects using commands such as CREATE, ALTER, and DROP.
+
 
 
 

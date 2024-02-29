@@ -52,6 +52,15 @@ Default: Provides a default value for a column if no value is specified.</br>
 
 <b>3. Data Definition:</b> Defining and modifying the structure of database objects using commands such as CREATE, ALTER, and DROP.
 
+<b>4. Data Retrieval:</b> Retrieving data from one or more tables using the SELECT statement and optionally applying filters, sorting, and aggregation functions.
+
+<b>5. Data Integrity:</b> Ensuring the accuracy, consistency, and validity of data by enforcing constraints and performing data validation.
+
+Performance Tuning:</b> Optimizing database performance by creating appropriate indexes, analyzing query execution plans, and tuning database configuration parameters.
+
+Security Management:</b> Managing user access, permissions, and privileges to ensure that only authorized users can access and manipulate the database.
+
+Backup and Recovery:</b> Implementing strategies for backing up database data and transaction logs regularly to prevent data loss and ensuring the ability to recover from failures or disasters.
 
 
 

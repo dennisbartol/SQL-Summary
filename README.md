@@ -38,6 +38,6 @@ Default: Provides a default value for a column if no value is specified.</br>
 
 <b>6. Indexes:</b> Indexes improve the performance of database queries by allowing faster data retrieval. An index is a data structure that stores the values of specific columns in a sorted order, making it quicker to search for and retrieve data.
 
-Views: A view is a virtual table generated from one or more tables or other views. It allows users to query the data in a structured way without directly accessing the underlying tables. Views can also simplify complex queries and provide an additional layer of security by limiting access to certain columns or rows.
+<b> 7. Views:</b> A view is a virtual table generated from one or more tables or other views. It allows users to query the data in a structured way without directly accessing the underlying tables. Views can also simplify complex queries and provide an additional layer of security by limiting access to certain columns or rows.
 
-Stored Procedures: A stored procedure is a precompiled set of SQL statements that performs a specific task or operation. Stored procedures can accept parameters, execute SQL queries, and return results. They are often used to encapsulate business logic within the database and promote code reusability.
+<b>8. Stored Procedures:</b> A stored procedure is a precompiled set of SQL statements that performs a specific task or operation. Stored procedures can accept parameters, execute SQL queries, and return results. They are often used to encapsulate business logic within the database and promote code reusability.

@@ -60,7 +60,7 @@ Default: Provides a default value for a column if no value is specified.</br>
 
 <b>7. Security Management:</b> Managing user access, permissions, and privileges to ensure that only authorized users can access and manipulate the database.
 
-Backup and Recovery:</b> Implementing strategies for backing up database data and transaction logs regularly to prevent data loss and ensuring the ability to recover from failures or disasters.
+<b>8. Backup and Recovery:</b> Implementing strategies for backing up database data and transaction logs regularly to prevent data loss and ensuring the ability to recover from failures or disasters.
 
 
 

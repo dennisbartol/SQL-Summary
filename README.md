@@ -62,6 +62,8 @@ Default: Provides a default value for a column if no value is specified.</br>
 
 <b>8. Backup and Recovery:</b> Implementing strategies for backing up database data and transaction logs regularly to prevent data loss and ensuring the ability to recover from failures or disasters.
 
+<b>9. Monitoring and Maintenance:</b> Monitoring database performance, resource usage, and overall health, and performing routine maintenance tasks such as index rebuilds, statistics updates, and database reorganizations.
+
 
 
 # Conclusion:
